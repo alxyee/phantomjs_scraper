@@ -1,3 +1,6 @@
-# MVP for using phantomjs scrapper with output to a JSON file
+PhantomJS Scrapper Output to JSON file
+=========
+```js
+npm run build
+```
 
-##Run npm run build
