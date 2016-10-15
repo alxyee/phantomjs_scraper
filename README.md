@@ -2,9 +2,9 @@ PhantomJS Scrapper Output to JSON file
 =========
 What does this do?
 
-    * MVP for scraping a url,
-    * Usage of vanillaJS or jQuery to store data,
-    * Output data to json file.
+   * MVP for scraping a url,
+   * Usage of vanillaJS or jQuery to store data,
+   * Output data to json file.
 
 What does this use?
 
