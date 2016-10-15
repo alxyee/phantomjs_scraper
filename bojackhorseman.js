@@ -22,7 +22,6 @@ horseman
     .then(function (response) {
         console.log(response)
         jsonfile.writeFile('data.json', response, function (err) {
-
         })
         return horseman.close();
     })
